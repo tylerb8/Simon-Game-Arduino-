@@ -16,8 +16,8 @@ LED will light up in random pattern, Player needs to memorize pattern and push b
 9 wires.
 
 ## Schematics
-
-![]IMG_0694.jpeg
+![](IMG_0695.jpeg)
+![](IMG_0694.jpeg)
 
 
   
