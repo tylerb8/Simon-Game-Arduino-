@@ -23,14 +23,14 @@ LED will light up in random pattern, Player needs to memorize pattern and push b
 9 wires
 
 ## Schematics
-<img src="IMG_0695.jpeg" width="50%">
-<img src="IMG_0694.jpeg" width="50%">
+<img src="IMG_0695.jpeg" width="40%">
+<img src="IMG_0694.jpeg" width="40%">
 
 ## Examples
-<img src="./images/IMG_1116.jpeg" width="50%">
-<img src="./images/IMG_117.jpeg" width="50%">
-<img src="./images/IMG_1118.jpeg" width="50%">
-<img src="./images/IMG_1120.jpeg" width="50%">
-<img src="./images/IMG_1123.jpeg" width="50%">
-<img src="./images/IMG_1124.jpeg" width="50%">
+<img src="./images/IMG_1116.jpeg" width="40%">
+<img src="./images/IMG_1117.jpeg" width="40%">
+<img src="./images/IMG_1118.jpeg" width="40%">
+<img src="./images/IMG_1120.jpeg" width="40%">
+<img src="./images/IMG_1123.jpeg" width="40%">
+<img src="./images/IMG_1124.jpeg" width="40%">
 
