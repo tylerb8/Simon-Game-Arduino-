@@ -8,12 +8,12 @@ LED will light up in random pattern, Player needs to memorize pattern and push b
 
 
 ## Equiptment
-2 Buttons
-2 Light Emitting Diodes
-1 Buzzer/speaker
-2 1k resistors
-1 Arduino uno
-9 wires
+2 Buttons,
+2 Light Emitting Diodes,
+1 Buzzer/speaker,
+2 1k resistors,
+1 Arduino uno,
+9 wires.
 
 
   
