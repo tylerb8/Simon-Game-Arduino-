@@ -15,5 +15,9 @@ LED will light up in random pattern, Player needs to memorize pattern and push b
 1 Arduino uno,
 9 wires.
 
+## Schematics
+
+![]IMG_0694.jpeg
+
 
   
