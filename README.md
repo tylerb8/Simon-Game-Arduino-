@@ -9,7 +9,7 @@ Simple simon game (Arduino memory game)
 
 LED will light up in random pattern, Player needs to memorize pattern and push button to match pattern.
 
-## Equiptment
+## Equipment
 2 Buttons
 
 2 Light Emitting Diodes
